@@ -13,7 +13,7 @@ Libraries used:
 
 
 
-The code is divided into 4 functions:
+The code is divided into one class "Crawler" with 4 functions:
 	
 	1. fetch_company_index 
 
