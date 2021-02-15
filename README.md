@@ -74,4 +74,3 @@ The code is divided into one class "Crawler" with 4 functions:
 	- Highly scalable
 	- Very dynamic - No particular schema required
 	- Since the data output for the code is json and mongodb uses json in data representation
-	- You dont have to worry about the data format or Schema.
