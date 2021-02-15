@@ -22,8 +22,8 @@ The code is divided into one class "Crawler" with 4 functions:
 		- The alphabet and the pagenumber are the inputs for the url.
 		- xpath's used to fetch the data:
 			company_name = root.xpath('//a[@class="list-link"]/text()')
-            company_url = root.xpath('//a[@class="list-link"]/@href')
-        - This function returns a list "company_profiles_list" and in the end we dump this list to a json file ["comapany_index.json"]`.
+            		company_url = root.xpath('//a[@class="list-link"]/@href')
+        	- This function returns a list "company_profiles_list" and in the end we dump this list to a json file ["comapany_index.json"]`.
 
     2. fetch_company_details_url_reponse
 
