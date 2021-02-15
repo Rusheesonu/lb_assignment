@@ -50,7 +50,7 @@ The code is divided into one class "Crawler" with 4 functions:
 
 * * I haven't used any threads because i have no proxies there is high chance of the website blocking me completely
 
-* Data Points collected :
+Data Points collected :
 	
 	1. company name
 	2. company location
@@ -68,7 +68,7 @@ The code is divided into one class "Crawler" with 4 functions:
 	10. similar companies  
 
 
-- Why mongoDB ?:
+Why mongoDB ?:
 	
 	- High perfomance
 	- Highly scalable
