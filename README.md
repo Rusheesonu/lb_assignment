@@ -68,7 +68,7 @@ The code is divided into one class "Crawler" with 4 functions:
 	10. similar companies  
 
 
-- Why mongoDB:
+- Why mongoDB ?:
 	
 	- High perfomance
 	- Highly scalable
