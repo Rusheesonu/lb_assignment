@@ -4,6 +4,7 @@
 Architecture of the code:
 
 Libraries used:
+
 	1. requests - for getting the response from the website.
 	2. lxml - For parsing data from html content from the webpage.
 	3. pymongo - for creating database and copying data.
